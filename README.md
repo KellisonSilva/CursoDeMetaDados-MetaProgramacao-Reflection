@@ -1,2 +1,2 @@
-# CursoDeMetaDados-MetaProgramacao-Reflection
- Curso realizado pela plataforma de ensino alura
+# Course-Metadate-Metaprogramming-Reflection
+ course held on the Alura platform
